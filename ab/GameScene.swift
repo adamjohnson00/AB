@@ -23,7 +23,6 @@ class GameScene: SKScene
 
     override func touchesBegan(touches: Set<NSObject>, withEvent event: UIEvent)
     {
-        /* Called when a touch begins */
         
         for touch in (touches as! Set<UITouch>)
         {
