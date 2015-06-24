@@ -12,6 +12,7 @@ class GameScene: SKScene
 {
     override func didMoveToView(view: SKView)
     {
+        // commeeeeeeennnnttttt
         let myLabel = SKLabelNode(fontNamed:"Chalkduster")
         myLabel.text = "Hello, World!";
         myLabel.fontSize = 65;
